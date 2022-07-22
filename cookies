@@ -1,15 +1,72 @@
 <!DOCTYPE html>
 
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Chocolate CHip Cookies</title>
-    </head>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chocolate CHip Cookies</title>
+</head>
 
 <body>
     <center>
-    <h1>Joseph's Chocolate Chip Recipe</h1>
-        <p>This is the best chocolate chip cookies recipe ever! No funny ingredients, no chilling time, etc. Just a simple, straightforward, amazingly delicious, doughy yet still fully cooked, chocolate chip cookie that turns out perfectly every single time! </p>
-            <img src="https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg" height="500" width="500"/>
+        <h1>Joseph's Chocolate Chip Recipe</h1>
+        <p>This is the best chocolate chip cookies recipe ever! No funny ingredients, no chilling time, etc. Just a
+            simple, straightforward, amazingly delicious, doughy yet still fully cooked, chocolate chip cookie that
+            turns out perfectly every single time! </p>
+        <img src="https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg"
+            height="500" width="500" />
+        <p>"Everyone needs a classic chocolate chip cookie recipe in their repertoire, and this is mine. It is seriously
+            the Best Chocolate Chip Cookie Recipe Ever! I have been making these for many, many years and everyone who
+            tries them agrees they’re out-of-this-world delicious!
+
+            Plus, there’s no funny ingredients, no chilling, etc. Just a simple, straightforward, amazingly delicious,
+            doughy yet still fully cooked, chocolate chip cookie that turns out perfectly every single time!
+
+            These are everything a chocolate chip cookie should be. Crispy and chewy. Doughy yet fully baked. Perfectly
+            buttery and sweet.
+            Overhead view of one chocolate chip cookie torn in half with melty chocolate chips surrounded by three other
+            cookies and chopped chocolate"</p>
+            <p><strong>Prep Time: 10 mins Cook Time: 8 mins Total Time: 30 mins <br> Servings: 36 cookies Calories:183 kcal</strong>
+            </p>
     </center>
-    </body>
+    
+        <br>
+        <h2>Equipment needed</h2> 
+        <ul>
+            <li>Measuring spoons</li>
+            <li>Measuring cups</li>
+            <li>Mixer</li>
+            <li>Spatula</li>
+            <li>Baking sheet</li>
+        </ul>
+        </p>
+        <h2>Ingredients</h2>
+        
+        <ul>
+            <li>1 cup salted butter softened</li>
+            <li>1 cup white (granulated> sugar</li>
+            <li>1 cup light brown sugar packed</li>
+            <li>2 tsp pure vanilla extract</li>
+            <li>2 large eggs</li>
+            <li>3 cups all purpose flower</li>
+            <li>1 tsp baking soda</li>
+            <li>1/2 tsp baking powder</li>
+            <li>1 tsp sea salt</li>
+            <li>2 cups chocolate chips</li>
+        </ul>
+        
+        <h2>Instructions</h2>
+        <ol>
+            <li>Preheat oven to 375 degrees F. Line a baking pan with parchment paper and set aside.</li>
+            <li>In a separate bowl mix flour, baking soda, salt, baking powder. Set aside.</li>
+            <li>Cream together butter and sugars until combined.</li>
+            <li>Beat in eggs and vanilla until fluffy.</li>
+            <li>Mix in the dry ingredients until combined.</li>
+            <li>Add 12 oz package of chocolate chips and mix well.</li>
+            <li>Roll 2-3 TBS (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets. (alternately, use a small cookie scoop to make your cookies).</li>
+            <li>Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just <strong>BARELY</strong> starting to turn brown.</li>
+            <li>Let them sit on the baking pan for 2 minutes before removing to cooling rack.</li>
+            <li>Enjoy!;)</li>
+        </ol>
+    
+</body>
